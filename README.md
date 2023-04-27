@@ -5,3 +5,6 @@
    sm4.secretKey = "ZVPj5......";  
    var data = "9z1XtppWEJttZMOTqo......";  
    var res = sm4.Decrypt_ECB(Hex.ToHexString(Convert.FromBase64String(data)));  
+# 关键词
+loadAESDecryptStr  
+MuData_KXC
