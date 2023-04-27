@@ -7,5 +7,5 @@
    var res = sm4.Decrypt_ECB(Hex.ToHexString(Convert.FromBase64String(data)));  
 # 关键词
 loadAESDecryptStr  
-MuData_KXC
+MuData_KXC  
 menuManager.js  
